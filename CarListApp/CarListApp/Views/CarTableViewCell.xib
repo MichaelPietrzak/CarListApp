@@ -18,9 +18,9 @@
                     <rect key="frame" x="0.0" y="0.0" width="195" height="200"/>
                 </imageView>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B8m-HW-zOy">
-                    <rect key="frame" x="225" y="30" width="139" height="35"/>
+                    <rect key="frame" x="225" y="30" width="169" height="35"/>
                     <constraints>
-                        <constraint firstAttribute="width" constant="139" id="DkQ-aK-rtE"/>
+                        <constraint firstAttribute="width" constant="169" id="DkQ-aK-rtE"/>
                     </constraints>
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                     <nil key="textColor"/>
@@ -31,7 +31,7 @@
             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
             <constraints>
                 <constraint firstItem="B8m-HW-zOy" firstAttribute="leading" secondItem="FSd-Hw-TcC" secondAttribute="trailing" constant="30" id="1Ks-W4-Dfi"/>
-                <constraint firstItem="myW-tg-jhf" firstAttribute="trailing" secondItem="B8m-HW-zOy" secondAttribute="trailing" constant="50" id="6dj-hP-me6"/>
+                <constraint firstItem="myW-tg-jhf" firstAttribute="trailing" secondItem="B8m-HW-zOy" secondAttribute="trailing" constant="20" id="6dj-hP-me6"/>
                 <constraint firstItem="FSd-Hw-TcC" firstAttribute="top" secondItem="rH9-3x-r6a" secondAttribute="top" id="EGP-4L-zdo"/>
                 <constraint firstItem="myW-tg-jhf" firstAttribute="bottom" secondItem="B8m-HW-zOy" secondAttribute="bottom" constant="135" id="IMD-fH-ldp"/>
                 <constraint firstItem="FSd-Hw-TcC" firstAttribute="bottom" secondItem="myW-tg-jhf" secondAttribute="bottom" id="Uqd-qt-fV2"/>
@@ -39,7 +39,11 @@
                 <constraint firstItem="FSd-Hw-TcC" firstAttribute="leading" secondItem="myW-tg-jhf" secondAttribute="leading" id="g3u-g6-ZCG"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
-            <point key="canvasLocation" x="-36" y="-373"/>
+            <connections>
+                <outlet property="carNameLabel" destination="B8m-HW-zOy" id="FX3-X8-e2R"/>
+                <outlet property="carView" destination="FSd-Hw-TcC" id="gM2-6D-qf0"/>
+            </connections>
+            <point key="canvasLocation" x="-36.231884057971016" y="-373.66071428571428"/>
         </view>
     </objects>
     <resources>

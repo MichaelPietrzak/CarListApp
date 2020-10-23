@@ -20,7 +20,7 @@ class TableViewController: UITableViewController {
 
         for item in items {
             if item.hasSuffix("3x.png") {
-                cars.append(item)
+                cars.append(item.replacingOccurrences(of: "@3x.png", with: ""))
             }
         }
         print(cars)
@@ -36,6 +36,9 @@ class TableViewController: UITableViewController {
         let cell = tableView.dequeueReusableCell(withIdentifier: "CarTableViewCell", for: indexPath) as! CarTableViewCell
         
         let carName = cars[indexPath.row]
+        
+        cell.carNameLabel?.text = carName
+        cell.carView?.image = UIImage(named: cars[indexPath.row])
         return cell
     }
     
