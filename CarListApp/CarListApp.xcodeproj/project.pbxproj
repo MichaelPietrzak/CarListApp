@@ -7,16 +7,97 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C862FFA25424F5200F4EA66 /* astonMartin@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C862FF725424F5100F4EA66 /* astonMartin@1x.png */; };
+		4C862FFB25424F5200F4EA66 /* astonMartin@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C862FF825424F5200F4EA66 /* astonMartin@3x.png */; };
+		4C862FFC25424F5200F4EA66 /* astonMartin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C862FF925424F5200F4EA66 /* astonMartin@2x.png */; };
+		4C8630222542516D00F4EA66 /* tesla@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C862FFE2542516400F4EA66 /* tesla@2x.png */; };
+		4C8630232542516D00F4EA66 /* audi@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C862FFF2542516400F4EA66 /* audi@2x.png */; };
+		4C8630242542516D00F4EA66 /* porsche@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630002542516500F4EA66 /* porsche@3x.png */; };
+		4C8630252542516D00F4EA66 /* mercedes@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630012542516500F4EA66 /* mercedes@3x.png */; };
+		4C8630262542516D00F4EA66 /* mercedes@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630022542516500F4EA66 /* mercedes@1x.png */; };
+		4C8630272542516D00F4EA66 /* ferrari@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630032542516500F4EA66 /* ferrari@3x.png */; };
+		4C8630282542516D00F4EA66 /* mercedes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630042542516500F4EA66 /* mercedes@2x.png */; };
+		4C8630292542516D00F4EA66 /* volkswagen@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630052542516500F4EA66 /* volkswagen@1x.png */; };
+		4C86302A2542516D00F4EA66 /* landRover@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630062542516600F4EA66 /* landRover@2x.png */; };
+		4C86302B2542516D00F4EA66 /* audi@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630072542516600F4EA66 /* audi@3x.png */; };
+		4C86302C2542516D00F4EA66 /* ferrari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630082542516600F4EA66 /* ferrari@2x.png */; };
+		4C86302D2542516D00F4EA66 /* lamborghini@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630092542516600F4EA66 /* lamborghini@3x.png */; };
+		4C86302E2542516D00F4EA66 /* toyota@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300A2542516700F4EA66 /* toyota@2x.png */; };
+		4C86302F2542516D00F4EA66 /* porsche@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300B2542516700F4EA66 /* porsche@2x.png */; };
+		4C8630302542516D00F4EA66 /* maserati@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300C2542516700F4EA66 /* maserati@3x.png */; };
+		4C8630312542516D00F4EA66 /* tesla@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300D2542516800F4EA66 /* tesla@1x.png */; };
+		4C8630322542516D00F4EA66 /* skoda@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300E2542516800F4EA66 /* skoda@3x.png */; };
+		4C8630332542516D00F4EA66 /* porsche@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86300F2542516800F4EA66 /* porsche@1x.png */; };
+		4C8630342542516D00F4EA66 /* ferrari@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630102542516800F4EA66 /* ferrari@1x.png */; };
+		4C8630352542516D00F4EA66 /* audi@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630112542516900F4EA66 /* audi@1x.png */; };
+		4C8630362542516D00F4EA66 /* maserati@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630122542516900F4EA66 /* maserati@2x.png */; };
+		4C8630372542516D00F4EA66 /* lamborghini@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630132542516900F4EA66 /* lamborghini@2x.png */; };
+		4C8630382542516D00F4EA66 /* bmw@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630142542516A00F4EA66 /* bmw@3x.png */; };
+		4C8630392542516D00F4EA66 /* maserati@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630152542516A00F4EA66 /* maserati@1x.png */; };
+		4C86303A2542516D00F4EA66 /* toyota@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630162542516B00F4EA66 /* toyota@3x.png */; };
+		4C86303B2542516D00F4EA66 /* volkswagen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630172542516B00F4EA66 /* volkswagen@2x.png */; };
+		4C86303C2542516D00F4EA66 /* tesla@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630182542516B00F4EA66 /* tesla@3x.png */; };
+		4C86303D2542516D00F4EA66 /* bmw@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630192542516B00F4EA66 /* bmw@1x.png */; };
+		4C86303E2542516D00F4EA66 /* lamborghini@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301A2542516B00F4EA66 /* lamborghini@1x.png */; };
+		4C86303F2542516D00F4EA66 /* landRover@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301B2542516C00F4EA66 /* landRover@3x.png */; };
+		4C8630402542516D00F4EA66 /* volkswagen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301C2542516C00F4EA66 /* volkswagen@3x.png */; };
+		4C8630412542516D00F4EA66 /* skoda@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301D2542516C00F4EA66 /* skoda@2x.png */; };
+		4C8630422542516D00F4EA66 /* toyota@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301E2542516C00F4EA66 /* toyota@1x.png */; };
+		4C8630432542516D00F4EA66 /* bmw@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C86301F2542516D00F4EA66 /* bmw@2x.png */; };
+		4C8630442542516D00F4EA66 /* landRover@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630202542516D00F4EA66 /* landRover@1x.png */; };
+		4C8630452542516D00F4EA66 /* skoda@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C8630212542516D00F4EA66 /* skoda@1x.png */; };
+		4C86304A25425A2900F4EA66 /* CarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86304825425A2900F4EA66 /* CarTableViewCell.swift */; };
+		4C86304B25425A2900F4EA66 /* CarTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4C86304925425A2900F4EA66 /* CarTableViewCell.xib */; };
 		4CE9ED2F2541A48A0036A04D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE9ED2E2541A48A0036A04D /* AppDelegate.swift */; };
 		4CE9ED312541A48A0036A04D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE9ED302541A48A0036A04D /* SceneDelegate.swift */; };
 		4CE9ED362541A48A0036A04D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE9ED342541A48A0036A04D /* Main.storyboard */; };
 		4CE9ED382541A48C0036A04D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CE9ED372541A48C0036A04D /* Assets.xcassets */; };
 		4CE9ED3B2541A48C0036A04D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE9ED392541A48C0036A04D /* LaunchScreen.storyboard */; };
 		4CE9ED4C2541EBB40036A04D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE9ED4A2541EBB40036A04D /* TableViewController.swift */; };
-		4CE9ED4D2541EBB40036A04D /* TableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CE9ED4B2541EBB40036A04D /* TableViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C862FF725424F5100F4EA66 /* astonMartin@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "astonMartin@1x.png"; sourceTree = "<group>"; };
+		4C862FF825424F5200F4EA66 /* astonMartin@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "astonMartin@3x.png"; sourceTree = "<group>"; };
+		4C862FF925424F5200F4EA66 /* astonMartin@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "astonMartin@2x.png"; sourceTree = "<group>"; };
+		4C862FFE2542516400F4EA66 /* tesla@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tesla@2x.png"; sourceTree = "<group>"; };
+		4C862FFF2542516400F4EA66 /* audi@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audi@2x.png"; sourceTree = "<group>"; };
+		4C8630002542516500F4EA66 /* porsche@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "porsche@3x.png"; sourceTree = "<group>"; };
+		4C8630012542516500F4EA66 /* mercedes@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mercedes@3x.png"; sourceTree = "<group>"; };
+		4C8630022542516500F4EA66 /* mercedes@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mercedes@1x.png"; sourceTree = "<group>"; };
+		4C8630032542516500F4EA66 /* ferrari@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ferrari@3x.png"; sourceTree = "<group>"; };
+		4C8630042542516500F4EA66 /* mercedes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mercedes@2x.png"; sourceTree = "<group>"; };
+		4C8630052542516500F4EA66 /* volkswagen@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "volkswagen@1x.png"; sourceTree = "<group>"; };
+		4C8630062542516600F4EA66 /* landRover@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "landRover@2x.png"; sourceTree = "<group>"; };
+		4C8630072542516600F4EA66 /* audi@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audi@3x.png"; sourceTree = "<group>"; };
+		4C8630082542516600F4EA66 /* ferrari@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ferrari@2x.png"; sourceTree = "<group>"; };
+		4C8630092542516600F4EA66 /* lamborghini@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamborghini@3x.png"; sourceTree = "<group>"; };
+		4C86300A2542516700F4EA66 /* toyota@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toyota@2x.png"; sourceTree = "<group>"; };
+		4C86300B2542516700F4EA66 /* porsche@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "porsche@2x.png"; sourceTree = "<group>"; };
+		4C86300C2542516700F4EA66 /* maserati@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "maserati@3x.png"; sourceTree = "<group>"; };
+		4C86300D2542516800F4EA66 /* tesla@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tesla@1x.png"; sourceTree = "<group>"; };
+		4C86300E2542516800F4EA66 /* skoda@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "skoda@3x.png"; sourceTree = "<group>"; };
+		4C86300F2542516800F4EA66 /* porsche@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "porsche@1x.png"; sourceTree = "<group>"; };
+		4C8630102542516800F4EA66 /* ferrari@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ferrari@1x.png"; sourceTree = "<group>"; };
+		4C8630112542516900F4EA66 /* audi@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audi@1x.png"; sourceTree = "<group>"; };
+		4C8630122542516900F4EA66 /* maserati@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "maserati@2x.png"; sourceTree = "<group>"; };
+		4C8630132542516900F4EA66 /* lamborghini@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamborghini@2x.png"; sourceTree = "<group>"; };
+		4C8630142542516A00F4EA66 /* bmw@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bmw@3x.png"; sourceTree = "<group>"; };
+		4C8630152542516A00F4EA66 /* maserati@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "maserati@1x.png"; sourceTree = "<group>"; };
+		4C8630162542516B00F4EA66 /* toyota@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toyota@3x.png"; sourceTree = "<group>"; };
+		4C8630172542516B00F4EA66 /* volkswagen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "volkswagen@2x.png"; sourceTree = "<group>"; };
+		4C8630182542516B00F4EA66 /* tesla@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tesla@3x.png"; sourceTree = "<group>"; };
+		4C8630192542516B00F4EA66 /* bmw@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bmw@1x.png"; sourceTree = "<group>"; };
+		4C86301A2542516B00F4EA66 /* lamborghini@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamborghini@1x.png"; sourceTree = "<group>"; };
+		4C86301B2542516C00F4EA66 /* landRover@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "landRover@3x.png"; sourceTree = "<group>"; };
+		4C86301C2542516C00F4EA66 /* volkswagen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "volkswagen@3x.png"; sourceTree = "<group>"; };
+		4C86301D2542516C00F4EA66 /* skoda@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "skoda@2x.png"; sourceTree = "<group>"; };
+		4C86301E2542516C00F4EA66 /* toyota@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toyota@1x.png"; sourceTree = "<group>"; };
+		4C86301F2542516D00F4EA66 /* bmw@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bmw@2x.png"; sourceTree = "<group>"; };
+		4C8630202542516D00F4EA66 /* landRover@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "landRover@1x.png"; sourceTree = "<group>"; };
+		4C8630212542516D00F4EA66 /* skoda@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "skoda@1x.png"; sourceTree = "<group>"; };
+		4C86304825425A2900F4EA66 /* CarTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarTableViewCell.swift; sourceTree = "<group>"; };
+		4C86304925425A2900F4EA66 /* CarTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CarTableViewCell.xib; sourceTree = "<group>"; };
 		4CE9ED2B2541A48A0036A04D /* CarListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CE9ED2E2541A48A0036A04D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4CE9ED302541A48A0036A04D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -25,7 +106,6 @@
 		4CE9ED3A2541A48C0036A04D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4CE9ED3C2541A48C0036A04D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4CE9ED4A2541EBB40036A04D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = CarListApp/Controllers/TableViewController.swift; sourceTree = SOURCE_ROOT; };
-		4CE9ED4B2541EBB40036A04D /* TableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = TableViewController.xib; path = CarListApp/Controllers/TableViewController.xib; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +119,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4C862FE625424B3300F4EA66 /* file_images */ = {
+			isa = PBXGroup;
+			children = (
+				4C8630112542516900F4EA66 /* audi@1x.png */,
+				4C862FFF2542516400F4EA66 /* audi@2x.png */,
+				4C8630072542516600F4EA66 /* audi@3x.png */,
+				4C8630192542516B00F4EA66 /* bmw@1x.png */,
+				4C86301F2542516D00F4EA66 /* bmw@2x.png */,
+				4C8630142542516A00F4EA66 /* bmw@3x.png */,
+				4C8630102542516800F4EA66 /* ferrari@1x.png */,
+				4C8630082542516600F4EA66 /* ferrari@2x.png */,
+				4C8630032542516500F4EA66 /* ferrari@3x.png */,
+				4C86301A2542516B00F4EA66 /* lamborghini@1x.png */,
+				4C8630132542516900F4EA66 /* lamborghini@2x.png */,
+				4C8630092542516600F4EA66 /* lamborghini@3x.png */,
+				4C8630202542516D00F4EA66 /* landRover@1x.png */,
+				4C8630062542516600F4EA66 /* landRover@2x.png */,
+				4C86301B2542516C00F4EA66 /* landRover@3x.png */,
+				4C8630152542516A00F4EA66 /* maserati@1x.png */,
+				4C8630122542516900F4EA66 /* maserati@2x.png */,
+				4C86300C2542516700F4EA66 /* maserati@3x.png */,
+				4C8630022542516500F4EA66 /* mercedes@1x.png */,
+				4C8630042542516500F4EA66 /* mercedes@2x.png */,
+				4C8630012542516500F4EA66 /* mercedes@3x.png */,
+				4C86300F2542516800F4EA66 /* porsche@1x.png */,
+				4C86300B2542516700F4EA66 /* porsche@2x.png */,
+				4C8630002542516500F4EA66 /* porsche@3x.png */,
+				4C8630212542516D00F4EA66 /* skoda@1x.png */,
+				4C86301D2542516C00F4EA66 /* skoda@2x.png */,
+				4C86300E2542516800F4EA66 /* skoda@3x.png */,
+				4C86300D2542516800F4EA66 /* tesla@1x.png */,
+				4C862FFE2542516400F4EA66 /* tesla@2x.png */,
+				4C8630182542516B00F4EA66 /* tesla@3x.png */,
+				4C86301E2542516C00F4EA66 /* toyota@1x.png */,
+				4C86300A2542516700F4EA66 /* toyota@2x.png */,
+				4C8630162542516B00F4EA66 /* toyota@3x.png */,
+				4C8630052542516500F4EA66 /* volkswagen@1x.png */,
+				4C8630172542516B00F4EA66 /* volkswagen@2x.png */,
+				4C86301C2542516C00F4EA66 /* volkswagen@3x.png */,
+				4C862FF725424F5100F4EA66 /* astonMartin@1x.png */,
+				4C862FF925424F5200F4EA66 /* astonMartin@2x.png */,
+				4C862FF825424F5200F4EA66 /* astonMartin@3x.png */,
+			);
+			path = file_images;
+			sourceTree = "<group>";
+		};
 		4CE9ED222541A48A0036A04D = {
 			isa = PBXGroup;
 			children = (
@@ -65,7 +191,7 @@
 				4CE9ED372541A48C0036A04D /* Assets.xcassets */,
 				4CE9ED392541A48C0036A04D /* LaunchScreen.storyboard */,
 				4CE9ED3C2541A48C0036A04D /* Info.plist */,
-				4CE9ED472541E7A50036A04D /* file_images */,
+				4C862FE625424B3300F4EA66 /* file_images */,
 			);
 			path = CarListApp;
 			sourceTree = "<group>";
@@ -74,6 +200,7 @@
 			isa = PBXGroup;
 			children = (
 				4CE9ED4A2541EBB40036A04D /* TableViewController.swift */,
+				4C86304825425A2900F4EA66 /* CarTableViewCell.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -82,16 +209,9 @@
 			isa = PBXGroup;
 			children = (
 				4CE9ED342541A48A0036A04D /* Main.storyboard */,
-				4CE9ED4B2541EBB40036A04D /* TableViewController.xib */,
+				4C86304925425A2900F4EA66 /* CarTableViewCell.xib */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		4CE9ED472541E7A50036A04D /* file_images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = file_images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,10 +271,49 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C86302D2542516D00F4EA66 /* lamborghini@3x.png in Resources */,
+				4C8630282542516D00F4EA66 /* mercedes@2x.png in Resources */,
+				4C8630382542516D00F4EA66 /* bmw@3x.png in Resources */,
+				4C8630392542516D00F4EA66 /* maserati@1x.png in Resources */,
+				4C8630412542516D00F4EA66 /* skoda@2x.png in Resources */,
+				4C8630292542516D00F4EA66 /* volkswagen@1x.png in Resources */,
+				4C862FFB25424F5200F4EA66 /* astonMartin@3x.png in Resources */,
+				4C8630322542516D00F4EA66 /* skoda@3x.png in Resources */,
+				4C86303B2542516D00F4EA66 /* volkswagen@2x.png in Resources */,
 				4CE9ED3B2541A48C0036A04D /* LaunchScreen.storyboard in Resources */,
+				4C8630242542516D00F4EA66 /* porsche@3x.png in Resources */,
+				4C8630402542516D00F4EA66 /* volkswagen@3x.png in Resources */,
+				4C8630342542516D00F4EA66 /* ferrari@1x.png in Resources */,
+				4C8630332542516D00F4EA66 /* porsche@1x.png in Resources */,
+				4C86303A2542516D00F4EA66 /* toyota@3x.png in Resources */,
+				4C86303C2542516D00F4EA66 /* tesla@3x.png in Resources */,
+				4C8630232542516D00F4EA66 /* audi@2x.png in Resources */,
+				4C8630222542516D00F4EA66 /* tesla@2x.png in Resources */,
+				4C8630432542516D00F4EA66 /* bmw@2x.png in Resources */,
+				4C862FFA25424F5200F4EA66 /* astonMartin@1x.png in Resources */,
+				4C8630302542516D00F4EA66 /* maserati@3x.png in Resources */,
+				4C86302C2542516D00F4EA66 /* ferrari@2x.png in Resources */,
+				4C8630362542516D00F4EA66 /* maserati@2x.png in Resources */,
+				4C86303F2542516D00F4EA66 /* landRover@3x.png in Resources */,
+				4C8630312542516D00F4EA66 /* tesla@1x.png in Resources */,
+				4C86302E2542516D00F4EA66 /* toyota@2x.png in Resources */,
+				4C8630422542516D00F4EA66 /* toyota@1x.png in Resources */,
 				4CE9ED382541A48C0036A04D /* Assets.xcassets in Resources */,
+				4C862FFC25424F5200F4EA66 /* astonMartin@2x.png in Resources */,
+				4C86302A2542516D00F4EA66 /* landRover@2x.png in Resources */,
+				4C8630452542516D00F4EA66 /* skoda@1x.png in Resources */,
+				4C8630272542516D00F4EA66 /* ferrari@3x.png in Resources */,
 				4CE9ED362541A48A0036A04D /* Main.storyboard in Resources */,
-				4CE9ED4D2541EBB40036A04D /* TableViewController.xib in Resources */,
+				4C86303D2542516D00F4EA66 /* bmw@1x.png in Resources */,
+				4C8630372542516D00F4EA66 /* lamborghini@2x.png in Resources */,
+				4C8630442542516D00F4EA66 /* landRover@1x.png in Resources */,
+				4C86304B25425A2900F4EA66 /* CarTableViewCell.xib in Resources */,
+				4C86302B2542516D00F4EA66 /* audi@3x.png in Resources */,
+				4C8630252542516D00F4EA66 /* mercedes@3x.png in Resources */,
+				4C86302F2542516D00F4EA66 /* porsche@2x.png in Resources */,
+				4C8630262542516D00F4EA66 /* mercedes@1x.png in Resources */,
+				4C86303E2542516D00F4EA66 /* lamborghini@1x.png in Resources */,
+				4C8630352542516D00F4EA66 /* audi@1x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +326,7 @@
 			files = (
 				4CE9ED2F2541A48A0036A04D /* AppDelegate.swift in Sources */,
 				4CE9ED4C2541EBB40036A04D /* TableViewController.swift in Sources */,
+				4C86304A25425A2900F4EA66 /* CarTableViewCell.swift in Sources */,
 				4CE9ED312541A48A0036A04D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
