@@ -51,7 +51,9 @@ class TableViewController: UITableViewController {
         
         cell.carNameLabel?.text = carName.replacingOccurrences(of: "@3x.png", with: "")
         cell.carView?.image = UIImage(named: carName)
+        
         cell.backgroundColor = backgroundColor
+        cell.selectionStyle = .none
         
         return cell
     }

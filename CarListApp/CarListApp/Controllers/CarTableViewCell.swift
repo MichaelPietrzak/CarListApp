@@ -17,12 +17,8 @@ class CarTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         
-        carView.layer.cornerRadius = 15
-        innerView.layer.cornerRadius = 15
-        innerView.layer.shadowColor = UIColor.gray.cgColor
-        innerView.layer.shadowOpacity = 0.7
-        innerView.layer.shadowOffset = .zero
-        innerView.layer.shadowRadius = 5
+        carView.layer.cornerRadius = 8
+        innerView.layer.cornerRadius = 8
         
         carNameLabel.font = UIFont(name: "Helvetica Neue", size: 20)
         carNameLabel.font = UIFont.systemFont(ofSize: 20, weight: .bold)
